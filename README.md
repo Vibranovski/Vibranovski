@@ -37,9 +37,6 @@ As a Computer Science student at the Pontifical Catholic University of Rio de Ja
   <a href="https://github.com/Vibranovski/MVP1_PUC-RIO" target="_blank">
     <img src="./ael.png" alt="MVP1 PUC-RIO Projeto" width="350" style="margin: 10px;" />
   </a>
-  <a href="https://github.com/Vibranovski/OutroProjeto" target="_blank">
-    <img src="./outra-imagem.png" alt="Outro Projeto" width="350" style="margin: 10px;" />
-  </a>
 </p>
 
 
