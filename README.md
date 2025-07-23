@@ -10,7 +10,7 @@ As a Computer Science student at the Pontifical Catholic University of Rio de Ja
 </div>
 
 
-## ▶️ Stacks and Technologies
+# ▶️ Stacks and Technologies
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -20,7 +20,7 @@ As a Computer Science student at the Pontifical Catholic University of Rio de Ja
 
 <br>
 
-## 😀 Networking
+# 😀 Networking
 
 <div> 
 
@@ -31,7 +31,7 @@ As a Computer Science student at the Pontifical Catholic University of Rio de Ja
 
 </div>
 
-## 💻 Repos
+# 💻 Repos
 
 <p align="center">
   <a href="https://github.com/Vibranovski/MVP1_PUC-RIO"><img src="./ael.png" alt="Imagem 1" width="350" style="margin:10px" />
