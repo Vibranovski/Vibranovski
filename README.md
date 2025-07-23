@@ -28,6 +28,9 @@ As a Computer Science student at the Pontifical Catholic University of Rio de Ja
   </a>
 </div>
 
+##
+
+![Snake animation](https://github.com/Vibranovski/Vibranovski/blob/output/github-contribution-grid-snake.svg)
 
 
 
