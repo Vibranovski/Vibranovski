@@ -4,10 +4,11 @@ As a Computer Science student at the Pontifical Catholic University of Rio de Ja
 
 <div>
   <a href="https://github.com/Vibranovski">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vibranovski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibranovski&layout=compact&langs_count=16&theme=dracula" />
+    <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=Vibranovski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibranovski&layout=compact&langs_count=16&theme=dracula" />
   </a>
 </div>
+
 
 ## ▶️ Stacks and Technologies
 
