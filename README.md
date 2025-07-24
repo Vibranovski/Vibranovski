@@ -9,13 +9,20 @@ As a Computer Science student at the Pontifical Catholic University of Rio de Ja
   </a>
 </div>
 
-
 ## ▶️ Stacks and Technologies
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  <img align="center" alt="CANVA" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+  <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="Numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Matplotlib" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg">
+  <img align="center" alt="Seaborn" height="30" width="40" src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg">
+  <img align="center" alt="Scikit-learn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg">
+  <img align="center" alt="Word" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png">
+  <img align="center" alt="Excel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2170px-Microsoft_Excel_2013-2019_logo.svg.png">
+  <img align="center" alt="PowerPoint" height="30" width="40" src="https://logodownload.org/wp-content/uploads/2020/04/microsoft-powerpoint-logo.png">
+  <img align="center" alt="Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
+
 </div>
 
 <br>
@@ -24,24 +31,28 @@ As a Computer Science student at the Pontifical Catholic University of Rio de Ja
 
 <div> 
 
-  <a href="mailto:daniel.vc7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </a>
+  <a href = "mailto:daniel.vc7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-vcosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </a>
-
+  
 </div>
 
-## 💻 Repo
+<br>
+
+## 💻 Repos
 
 <p align="center">
-  <a href="https://github.com/Vibranovski/MVP1_PUC-RIO" target="_blank">
-    <img src="./ael.png" alt="MVP1 PUC-RIO Projeto" width="350" style="margin: 10px;" />
+  <a href="#">  
+  <img src="https://res.cloudinary.com/dujx0hv4e/image/upload/v1753366341/project1_gof5ys.png" alt="Imagem 1" width="350" style="margin:10px" />
+  </a>
+  <a href="#">
+  <img src="https://res.cloudinary.com/dujx0hv4e/image/upload/v1753366341/project2_fmtrp4.png" alt="Imagem 2" width="350" style="margin:10px" />
   </a>
 </p>
-
-
-
-##
-
-![Snake animation](https://github.com/Vibranovski/Vibranovski/blob/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+  <a href="#">  
+  <img src="https://res.cloudinary.com/dujx0hv4e/image/upload/v1753366341/project3_qz2dly.png" alt="Imagem 3" width="350" style="margin:10px" />
+  </a>
+  <a src="#">  
+  <img src="https://res.cloudinary.com/dujx0hv4e/image/upload/v1753366341/project4_sbmkac.png" alt="Imagem 4" width="350" style="margin:10px" />
+  </a>
+</p>
