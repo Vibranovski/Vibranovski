@@ -56,3 +56,11 @@ As a Computer Science student at the Pontifical Catholic University of Rio de Ja
   <img src="https://res.cloudinary.com/dujx0hv4e/image/upload/v1753366341/project4_sbmkac.png" alt="Imagem 4" width="350" style="margin:10px" />
   </a>
 </p>
+
+<div> 
+  
+  <img align="center" alt="gif" height="300" src="https://raw.githubusercontent.com/devjonatanm/devjonatanm/refs/heads/main/code.gif">
+
+</div>
+
+<br>
