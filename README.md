@@ -41,7 +41,7 @@ As a Computer Science student at the Pontifical Catholic University of Rio de Ja
 ## 💻 Repos
 
 <p align="center">
-  <a href="https://github.com/Vibranovski/Analise_de_Dados_e_Boas_Praticas">  
+  <a href="https://github.com/Vibranovski/Data_Analysis_Sprint">  
   <img src="https://res.cloudinary.com/dujx0hv4e/image/upload/v1753366341/project1_gof5ys.png" alt="Imagem 1" width="350" style="margin:10px" />
   </a>
   <a href="#">
