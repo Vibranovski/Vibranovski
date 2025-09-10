@@ -45,15 +45,15 @@ As a Computer Science student at the Pontifical Catholic University of Rio de Ja
   <img src="https://res.cloudinary.com/dujx0hv4e/image/upload/v1753366341/project1_gof5ys.png" alt="Imagem 1" width="350" style="margin:10px" />
   </a>
   <a href="https://github.com/Vibranovski/Machine_Learning">
-  <img src="https://res.cloudinary.com/dujx0hv4e/image/upload/v1753366341/project2_fmtrp4.png" alt="Imagem 2" width="350" style="margin:10px" />
+  <img src="https://res.cloudinary.com/dujx0hv4e/image/upload/v1757542959/global_machine_learning_xfrzx1.png" alt="Imagem 2" width="350" style="margin:10px" />
   </a>
 </p>
 <p align="center">
-  <a href="#">  
-  <img src="https://res.cloudinary.com/dujx0hv4e/image/upload/v1753366341/project3_qz2dly.png" alt="Imagem 3" width="350" style="margin:10px" />
+  <a href="https://github.com/Vibranovski/Back-end_MVP_1_Eng_Software">  
+  <img src="https://res.cloudinary.com/dujx0hv4e/image/upload/v1757542959/software_backend_azxzhz.png" alt="Imagem 3" width="350" style="margin:10px" />
   </a>
-  <a src="#">  
-  <img src="https://res.cloudinary.com/dujx0hv4e/image/upload/v1753366341/project4_sbmkac.png" alt="Imagem 4" width="350" style="margin:10px" />
+  <a src="https://github.com/Vibranovski/Front-end_MVP_1_Eng_Software">  
+  <img src="https://res.cloudinary.com/dujx0hv4e/image/upload/v1757542959/software_frontend_yrvuaa.png" alt="Imagem 4" width="350" style="margin:10px" />
   </a>
 </p>
 
