@@ -46,20 +46,44 @@ As a Computer Science student at the Pontifical Catholic University of Rio de Ja
 
 <p align="center">
   <a href="https://github.com/Vibranovski/Data_Analysis_Sprint">  
-  <img src="https://res.cloudinary.com/dujx0hv4e/image/upload/v1753366341/project1_gof5ys.png" alt="Imagem 1" width="350" style="margin:10px" />
+  <img src="https://res.cloudinary.com/dujx0hv4e/image/upload/v1763295746/Group_81_yxdjyo.png" alt="Imagem 1" width="350" style="margin:10px" />
   </a>
   <a href="https://github.com/Vibranovski/Machine_Learning">
-  <img src="https://res.cloudinary.com/dujx0hv4e/image/upload/v1757542959/global_machine_learning_xfrzx1.png" alt="Imagem 2" width="350" style="margin:10px" />
+  <img src="https://res.cloudinary.com/dujx0hv4e/image/upload/v1763295781/Group_82_wyabwc.png" alt="Imagem 2" width="350" style="margin:10px" />
   </a>
 </p>
+
 <p align="center">
-  <a href="https://github.com/Vibranovski/Back-end_MVP_1_Eng_Software">  
-  <img src="https://res.cloudinary.com/dujx0hv4e/image/upload/v1757542959/software_backend_azxzhz.png" alt="Imagem 3" width="350" style="margin:10px" />
+  <a href="">  
+  <img src="https://res.cloudinary.com/dujx0hv4e/image/upload/v1763295449/Group_113_hxzybi.png" alt="Imagem 3" width="350" style="margin:10px" />
   </a>
-  <a href="https://github.com/Vibranovski/Front-end_MVP_1_Eng_Software">  
-  <img src="https://res.cloudinary.com/dujx0hv4e/image/upload/v1757542959/software_frontend_yrvuaa.png" alt="Imagem 4" width="350" style="margin:10px" />
+  <a href="https://github.com/Vibranovski/Back-end_MVP_1_Eng_Software">  
+  <img src="https://res.cloudinary.com/dujx0hv4e/image/upload/v1763295985/Group_85_oxfk9u.png" alt="Imagem 4" width="350" style="margin:10px" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Vibranovski/Front-end_MVP_1_Eng_Software">  
+  <img src="https://res.cloudinary.com/dujx0hv4e/image/upload/v1763296011/Group_84_q48ugf.png" alt="Imagem 3" width="350" style="margin:10px" />
+  </a>
+  <a href="">
+  <img src="https://res.cloudinary.com/dujx0hv4e/image/upload/v1763296102/Group_115_x2vro0.png" alt="Imagem 4" width="350" style="margin:10px" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="">  
+  <img src="https://res.cloudinary.com/dujx0hv4e/image/upload/v1763296055/Group_114_1_xwanga.png" alt="Imagem 3" width="350" style="margin:10px" />
+  </a>
+</p>
+
+
+
+
+
+
+
+
 
 <div> 
   
