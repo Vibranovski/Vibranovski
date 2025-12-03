@@ -3,8 +3,6 @@
 As a Computer Science student at the Pontifical Catholic University of Rio de Janeiro (PUC-Rio), I am passionate about leveraging the power of technology to solve real-world problems. My project-based education has taught me the value of collaboration and given me hands-on experience with project management and programming in Python. Fluent in English, Spanish, and Portuguese, I am a versatile and adaptable team player. My background as a business student and my experience in sports, such as surfing, have instilled in me discipline and a willingness to take calculated risks. I am particularly enthusiastic about Artificial Intelligence and Machine Learning and eager to contribute to innovative, challenging projects.
 
 <div>
-  <a href="https://github.com/Vibranovski">
-    <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=Vibranovski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
     <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibranovski&layout=compact&langs_count=16&theme=dracula" />
   </a>
 </div>
@@ -25,6 +23,7 @@ As a Computer Science student at the Pontifical Catholic University of Rio de Ja
   <img align="center" alt="Excel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2170px-Microsoft_Excel_2013-2019_logo.svg.png">
   <img align="center" alt="PowerPoint" height="30" width="40" src="https://logodownload.org/wp-content/uploads/2020/04/microsoft-powerpoint-logo.png">
   <img align="center" alt="Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
 
 
 </div>
@@ -76,13 +75,6 @@ As a Computer Science student at the Pontifical Catholic University of Rio de Ja
   <img src="https://res.cloudinary.com/dujx0hv4e/image/upload/v1763296055/Group_114_1_xwanga.png" alt="Imagem 3" width="350" style="margin:10px" />
   </a>
 </p>
-
-
-
-
-
-
-
 
 
 <div> 
