@@ -1,6 +1,6 @@
 # **Daniel Vibranovski Costa**
 
-As a Computer Science student at the Pontifical Catholic University of Rio de Janeiro (PUC-Rio), I am passionate about leveraging the power of technology to solve real-world problems. My project-based education has taught me the value of collaboration and given me hands-on experience with project management and programming in Python. Fluent in English, Spanish, and Portuguese, I am a versatile and adaptable team player. My background as a business student and my experience in sports, such as surfing, have instilled in me discipline and a willingness to take calculated risks. I am particularly enthusiastic about Artificial Intelligence and Machine Learning and eager to contribute to innovative, challenging projects.
+As a Data Analyst professional, I am passionate about leveraging the power of technology to solve real-world problems. My project-based education has taught me the value of collaboration and given me hands-on experience with project management and programming in Python. Fluent in English, Spanish, and Portuguese, I am a versatile and adaptable team player. My background as a business student and my experience in sports, such as surfing, have instilled in me discipline and a willingness to take calculated risks. I am particularly enthusiastic about Artificial Intelligence and Machine Learning and eager to contribute to innovative, challenging projects.
 
 
 ## ▶️ Stacks and Technologies
